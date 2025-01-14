@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, competitive programming, and exploring new technologies
 - 🌱 I’m currently learning React and Python
 - 💞️ I’m looking to collaborate on open-source projects,and web development initiatives
-- 📫 How to reach me https://www.linkedin.com/in/adithya-js
+- 📫 How to reach me: LinkedIn
 
 
 <!---
